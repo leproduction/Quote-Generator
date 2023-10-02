@@ -1,3 +1,1 @@
-# NewQuote# newQuotes
-# newQuotes
 # newenv
