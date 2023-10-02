@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newenv/static/css/main.f8654001.css",
+    "main.js": "/newenv/static/js/main.fda4c799.js",
+    "static/js/787.252c5a3f.chunk.js": "/newenv/static/js/787.252c5a3f.chunk.js",
+    "static/media/Wow.jpg": "/newenv/static/media/Wow.836731a86f49f4629b31.jpg",
+    "index.html": "/newenv/index.html",
+    "main.f8654001.css.map": "/newenv/static/css/main.f8654001.css.map",
+    "main.fda4c799.js.map": "/newenv/static/js/main.fda4c799.js.map",
+    "787.252c5a3f.chunk.js.map": "/newenv/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8654001.css",
+    "static/js/main.fda4c799.js"
+  ]
+}
